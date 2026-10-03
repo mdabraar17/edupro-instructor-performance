@@ -1,0 +1,6 @@
+KPI,Value,Interpretation
+Average Teacher Rating,3.78,Average instructor quality score
+Average Course Rating,3.59,Average learner course rating
+Rating Consistency Index,81.82,Higher indicates more consistent course ratings
+Experience Impact Score,49.96,Correlation-based indicator of experience and teacher rating
+Enrollment Influence Ratio,39.24,Correlation-based indicator of teacher rating and enrollment demand
